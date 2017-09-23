@@ -30,6 +30,5 @@ body {
 }
 
 .note {
-  font-size: 8pt;
-  vertical-align: top;
+  color: gray;
 }
