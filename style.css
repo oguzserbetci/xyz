@@ -2,7 +2,6 @@ body {
   margin: 30px;
   color: #070017;
   font-family: 'Fira Mono', monospace;
-  /*background-color: #B9F6CA;*/
 }
 
 .columns {
@@ -20,6 +19,7 @@ body {
 .regular { font-weight: 400; }
 .medium { font-weight: 500; }
 .bold { font-weight: 700; }
+
 .link-container {
   margin-top: 2vh;
 }
@@ -30,5 +30,5 @@ body {
 }
 
 .note {
-  color: gray;
+  color: #DDD5ED !important;
 }
